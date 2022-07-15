@@ -1,0 +1,5 @@
+<meta>
+	<info name="Shady" type="script" />
+	<script src="carshop.lua" type="client"/>
+	<script src="carshop_s.lua" type="server"/>
+</meta>
